@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projet worldCap</string>
+    //Headings
+    <string name="heading_one">La meilleur application pour suivre les matchs</string>
+    <string name="heading_two">Notre application permet de suivre les actuatlités de toutes les équipes</string>
+    <string name="heading_three">Acheter votre billet en ligne</string>
+    <string name="heading_fourth">Notre application est multi-fonctionel </string>
+
+    //Description
+    <string name="desc_one"></string>
+    <string name="desc_two"></string>
+    <string name="desc_three"></string>
+    <string name="desc_fourth">Trouvez-vous votre besoin! </string>
+
+</resources>
